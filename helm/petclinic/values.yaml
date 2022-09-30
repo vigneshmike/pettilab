@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: vigneshbc/petcliniclab
-  tag: latest
+  tag: 5
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
